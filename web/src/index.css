@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Avenir";
+  src: local("Avenir"), url("./fonts/AvenirLTStd-Book.otf") format("otf");
+}
+
+html {
+  font-family: "Avenir";
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: content-box;
+}
